@@ -1,3 +1,3 @@
-const printName = name => {
+function printName(name) {
     console.log(name)
 }
